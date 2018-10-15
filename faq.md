@@ -90,6 +90,6 @@ Yes. Please email us for access.
 
 ### Local accommodation/sights to see
 
-Check out this list of accommodations and Portland attractions on the csv,conf website.
+Check out this [list of accommodations and Portland attractions](https://csvconf.com/2017/locations/) on the csv,conf website.
 
 <!-- ### About OpenCon -->
