@@ -2471,6 +2471,19 @@
 				width: 100%;
 			}
 
+		.image.small {
+			max-width: 20%;
+		}
+
+			.image.small img {
+				width: 100%;
+			}
+
+		.image.small {
+			float: left;
+			margin: 0 2rem 2rem 0;
+		}
+
 		@media screen and (max-width: 736px) {
 
 			.image.fit {
@@ -2478,6 +2491,10 @@
 			}
 
 			.image.main {
+				margin: 2rem 0;
+			}
+
+			.image.small{
 				margin: 2rem 0;
 			}
 

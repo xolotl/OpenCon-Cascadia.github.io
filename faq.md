@@ -20,6 +20,7 @@ sitemap:
     - [How do I get in contact with organizers?](#how-do-i-get-in-contact-with-organizers)
     - [Is OpenCon Cascadia on any social media channels?](#is-opencon-cascadia-on-any-social-media-channels)
     - [When will registration open and close?](#when-will-registration-open-and-close)
+    - [What's the schedule like?]
     - [Will childcare be provided?](#will-childcare-be-provided)
     - [Will a lactation room be available?](#will-a-lactation-room-be-available)
     - [Local accommodation/sights to see](#local-accommodationsights-to-see)
@@ -62,7 +63,7 @@ You are still welcome to come and participate.
 
 ### What is the price of registration? 
 
-OpenCon Cascadia is a FREE event! Our organizing committee is working hard to ensure that everyone can participate, regardless of their financial position.
+OpenCon Cascadia is a low cost event with 3 tiers of pricing: $10, $5, and free (pay what you can!). Our organizing committee is working hard to ensure that everyone can participate, regardless of their financial position.
 
 ### Will you provide food and drinks?
 
@@ -78,7 +79,11 @@ We do not have any official profiles or handles but we encourage you to use the 
 
 ### When will registration open and close? 
 
-Registration will open on October 22, the first day of Open Access Week and will close the day of the conference, February 1, 2019. 
+Registration will open by the end of November and will close the day of the conference, February 1, 2019. 
+
+### What's the schedule like?
+
+The main conf is Saturday all day, and the actual schedule will be released soon. On Friday evening, we will have a networking social at the Portland Mozilla offices.
 
 ### Will childcare be provided?
 
