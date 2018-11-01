@@ -20,7 +20,7 @@ sitemap:
     - [How do I get in contact with organizers?](#how-do-i-get-in-contact-with-organizers)
     - [Is OpenCon Cascadia on any social media channels?](#is-opencon-cascadia-on-any-social-media-channels)
     - [When will registration open and close?](#when-will-registration-open-and-close)
-    - [What's the schedule like?]
+    - [What is the schedule like?](#what-is-the-schedule-like)
     - [Will childcare be provided?](#will-childcare-be-provided)
     - [Will a lactation room be available?](#will-a-lactation-room-be-available)
     - [Local accommodation/sights to see](#local-accommodationsights-to-see)
@@ -81,7 +81,7 @@ We do not have any official profiles or handles but we encourage you to use the 
 
 Registration will open by the end of November and will close the day of the conference, February 1, 2019. 
 
-### What's the schedule like?
+### What is the schedule like?
 
 The main conf is Saturday all day, and the actual schedule will be released soon. On Friday evening, we will have a networking social at the Portland Mozilla offices.
 
