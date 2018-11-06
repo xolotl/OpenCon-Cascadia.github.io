@@ -3,9 +3,9 @@ layout: null
 title: OpenCon Cascadia
 description: The Pacific Northwest OpenCon.
 sitemap:
-    priority: 1.0
-    lastmod: 2017-11-02
-    changefreq: weekly
+priority: 1.0
+lastmod: 2017-11-02
+changefreq: weekly
 ---
 
 <!DOCTYPE HTML>
@@ -16,100 +16,107 @@ sitemap:
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-	<head>
-    {% include head.html %}
 
+<head>
+	{% include head.html %}
+</head>
 
-	</head>
-	<body class="is-loading">
+<body class="is-loading">
 
-		<!-- Wrapper -->
-			<div id="wrapper" class="fade-in">
+	<!-- Wrapper -->
+	<div id="wrapper" class="fade-in">
 
-				<!-- Intro -->
-					<div id="intro">
-					<div class="image small"><img src="/images/OCClogo.png" alt="">
-					</div>
-            <h1>OpenCon Cascadia</h1>
-						<h2>February 1st & 2nd, 2019</h2>
-						<p>OHSU Robertson Life Sciences Building</p>
-						<p>Portland, Oregon</p>
-						<!--ul class="actions">
+		<!-- Intro -->
+		<div id="intro">
+			<div class="image small"><img src="/images/OCClogo.png" alt="">
+			</div>
+			<h1>OpenCon Cascadia</h1>
+			<h2>February 1st & 2nd, 2019</h2>
+			<p><a href="https://goo.gl/maps/YC1dmHqFz4u">OHSU Robertson Life Sciences Building</a><br>Portland, Oregon</p>
+			<!--ul class="actions">
 							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
-						</ul-->
-					</div>
+						</ul> -->
+		</div>
 
-				<!--Header>
+		<!--Header>
 					<header id="header">
 						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
 					</header-->
 
-				<!-- Nav -->
-					<nav id="nav">
+		<!-- Nav -->
+		<nav id="nav">
 
-            			{% include nav.html %}
+			{% include nav.html %}
 
-					</nav>
+		</nav>
 
-				<!-- Main -->
-					<div id="main">
-						<!-- Featured Post -->
-							<article class="post featured">
-								<header class="major">
-									<h2>Let's make scholarship more open, inclusive, and accessible.</h2>
-									<p>Join us at OpenCon Cascadia to share stories, discuss challenges, and connect with regional colleagues in a fun and welcoming environment!</p>
-								</header>
-								<a href="#" class="image main"><img src="{{ "/images/mthood.jpg" | absolute_url }}" alt="" /></a>
-                    <p>Are you involved in a project with a goal of improving research, academic culture, or public access to scholarly work? Are you pushing for open research at your institution or organization? Are you involved in a project that seeks to make research more accessible through citizen science or DIY science?</p>
-					<h2>Join us!</h2>
-					<p>We'll discuss issues facing research and scholarship today and work on strategy and communication for our projects. Registration will open soon!</p>
-					<h2>Keynotes</h2>
-					<p>We are ecstatic to announce our two keynote speakers: <a href=https://datasociety.net/people/ferryman-kadija>Dr. Kadija Ferryman</a> and <a href=http://www.utsc.utoronto.ca/~chan>Dr. Leslie Chan!</a>
-					<span class="image left"><img src="{{ "/images/kadija-ferryman-headshot.jpg" | absolute_url }}" alt="" /></span>
-					<p>Dr. Kadija Ferryman is a cultural anthropologist who studies health risk as a social, cultural, and ethical phenomenon. Specifically, her research examines the impacts of health risk prediction through information technologies such as genomics, digital medical records, and artificial intelligence on marginalized groups. She is currently a Postdoctoral Scholar at the Data & Society Research Institute in New York and leads the Fairness in Precision Medicine research study, which examines the potential for bias and discrimination in predictive precision medicine. She is a Mozilla Open Science Fellow and will be conducting an ethnography examining the origins of the open health movement and the history of electronic health records during the fellowship.</p>
-					<span class="image left"><img src="{{ "/images/leslie-chan-headshot.png" | absolute_url }}" alt="" /></span>
-					<p>Leslie is an Associate Professor and Associate Director of the Centre for Critical Development Studies at the University of Toronto Scarborough. An early practitioner of the Web for scholarly and educational exchange, Leslie has been particularly interested in the role of “openness” in the design of knowledge infrastructure, and the implications on the production and flow of knowledge and their impact on local and international development. As one of the original signatories of the Budapest Open Access Initiative, Leslie has been active in the experimentation and implementation of scholarly communication initiatives of varying scales around the world. Director of Bioline International, an international collaborative open access platform, Leslie is a long time advocate for knowledge equity and inclusive development.  Leslie has served as advisor to numerous projects and organizations, including the Canadian Research Knowledge Network, the American Anthropological Association, the International Development Research Centre, UNESCO, the Open Society Foundation, the Directory of Open Access Journal, more recently the San Francisco Declaration on Research Assessment (DORA). Leslie is the principal investigator for the Open and Collaborative Science in Development Network (OCSDNet), funded by IDRC in Canada and DFID in the UK, and the PI of the Knowledge G.A.P project.</p>
+		<!-- Main -->
+		<div id="main">
+			<!-- Featured Post -->
+			<article class="post featured">
+				<header class="major">
+					<h2>Let's make scholarship more open, inclusive, and accessible.</h2>
+					<p>Join us at OpenCon Cascadia to share stories, discuss challenges, and connect with regional colleagues in a fun
+						and welcoming environment!</p>
+				</header>
 
+				<a href="#" class="image main"><img src="{{ "/images/mthood.jpg" | absolute_url }}" alt="" /></a>
 
-							</article>
+				<p>Are you involved in a project with a goal of improving research, academic culture, or public access to scholarly
+					work? Are you pushing for open research at your institution or organization? Are you involved in a project that
+					seeks to make research more accessible through citizen science or DIY science?</p>
 
-						<!-- Posts -->
-							<!--section class="posts">
-                {% for post in site.posts limit:3 %}
-                {% assign mod3 = forloop.index | modulo: 3 %}
-  								<article>
-  									<header>
-  										<span class="date">{{ post.date | date_to_string }}</span>
-  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-  									</header>
-  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-  									<p>{{ post.excerpt }}</p>
-  									<ul class="actions">
-  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
-  									</ul>
-  								</article>
-                  {% if mod3 == 0 %}
-                  <article>
-  									<header>
-  										<h2><a href="#">Sponsored</a></h2>
-  									</header>
+				<h2>Join us!</h2>
+				<p>We'll discuss issues facing research and scholarship today and work on strategy and communication for our
+					projects. Registration will open soon!</p>
 
-  								</article>
-                  {% endif %}
-                {% endfor %}
+				<h2>Keynote Speakers</h2>
 
-							</section-->
-
+				<div style="display:flex; align-items: flex-start;">
+					<div style="flex:1; display: flex; flex-direction: column; align-items: center;">
+							<div style="flex:1">
+								<a href=https://datasociety.net/people/ferryman-kadija>Dr. Kadija Ferryman</a><br>
+								<span style="font-size: 80%">Data & Society, NY</span>
+								</div>
+								<a href="https://datasociety.net/people/ferryman-kadija" class="image faces" style="flex:1; border-radius:50%; max-width: 70%;">
+							<img src="/images/keynotes/kadija-ferryman-headshot.jpg" alt="" />
+						</a>
 					</div>
 
-				<!-- Footer -->
-        {% include foot.html %}
+					<div style="flex:1; display: flex; flex-direction: column; align-items: center;">	
+							<div style="flex:1">
+									<a href=http://www.utsc.utoronto.ca/~chan>Dr. Leslie Chan</a><br>
+									<span style="font-size: 80%">University of Toronto Scarborough, Toronto</span>
+								</div>
+								<a
+								style="flex:1; border-radius:50%; max-width: 70%;"
+								href="http://www.utsc.utoronto.ca/~chan"
+								class="image faces"
+								style="flex:1; border-radius:50%; max-width: 80%;">
+							<img src="/images/keynotes/leslie-chan-headshot-square.png" alt="" />
+						</a>
+						
+					</div>
+				</div>
+
+				<div>You can find more information about both speakers on our <a href="/about#keynotes">About</a> page.</div>
 
 			</div>
+				
 
-		<!-- Scripts -->
-		{% include scripts-main.html %}
-    {% include tracking.html %}
+			</article>
 
-	</body>
+		</div>
+
+		<!-- Footer -->
+		{% include foot.html %}
+
+	</div>
+
+	<!-- Scripts -->
+	{% include scripts-main.html %}
+	{% include tracking.html %}
+
+</body>
+
 </html>
