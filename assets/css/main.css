@@ -65,6 +65,27 @@
 		box-sizing: border-box;
 	}
 
+	.keynotes {
+		display: flex;
+		align-items:flex-start;
+	}
+
+	.keynotes .image {
+		flex:1;
+		display:flex;
+		min-width: 0;
+	}
+
+	.keynotes .text {
+		flex:3;
+	}
+
+	.keynotes div img {
+		flex:1;
+		border-radius:50%;
+		align-self: center
+	}
+
 	.row > * {
 		float: left;
 		-moz-box-sizing: border-box;
@@ -2418,6 +2439,9 @@
 		display: inline-block;
 		position: relative;
 	}
+		.image .round {
+			border-radius: 50%;
+		}
 
 		.image img {
 			display: block;
@@ -2468,6 +2492,20 @@
 			}
 
 			.image.main img {
+				width: 100%;
+			}
+
+		.image.faces {
+			display: block;
+			margin: 2rem 0;
+			width: 100%;
+		}
+
+			.image.faces:first-child {
+				margin-top: 0;
+			}
+
+			.image.faces img {
 				width: 100%;
 			}
 
