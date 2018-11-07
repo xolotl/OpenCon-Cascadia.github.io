@@ -17,46 +17,51 @@ sitemap:
 We believe that everyone has the right to access research and scholarship. We're convening OpenCon Cascadia to provide support to communities and projects with the goal of making scholarship more open, inclusive, and accessible. Are you involved in a project with a goal of improving research, academic culture, or public access to scholarly work? Are you pushing for open research at your institution or organization? Are you involved in a project that seeks to make research more accessible through citizen science or DIY science?
 Join us at OpenCon Cascadia to share stories, discuss challenges, and connect with regional colleagues in a fun and welcoming environment. We'll discuss issues facing research and scholarship today and work on strategy and communication docs for our projects.
 
-## Keynotes
-
-<div class="row keynotes">
-	<div class="image">
-		<img src="/images/keynotes/kadija-ferryman-headshot.jpg" alt="" />
-	</div>
-    <div class="text">
-        <p>Dr. Kadija Ferryman is a cultural anthropologist who studies health risk as a social, cultural, and ethical phenomenon. Specifically, her research examines the impacts of health risk prediction through information technologies such as genomics digital medical records, and artificial intelligence on marginalized groups. She is currently a Postdoctoral Scholar at the Data & Society Research Institute in New York and leads the Fairness in Precision Medicine research study, which examines the potential for bias and discrimination in predictive precision medicine. She is a Mozilla Open Science Fellow and will be conducting an ethnography examining the origins of the open health movement and the history of electronic health records during the fellowship.</p>
-    </div>
-</div>
-<hr>
-<div class="row keynotes">
-    <div class="image">
-        <img src="/images/keynotes/leslie-chan-headshot-square.png" alt="" />
-    </div>
-    <div class="text">
-        <p>Dr. Leslie Chan is an Associate Professor and Associate Director of the Centre for Critical Development Studies at the University of Toronto Scarborough. An early practitioner of the Web for scholarly and educational exchange, Leslie has been particularly interested in the role of “openness” in the design of knowledge infrastructure, and the implications on the production and flow of knowledge and their impact on local and international development. As one of the original signatories of the Budapest Open Access Initiative, Leslie has been active in the experimentation and implementation of scholarly communication initiatives of varying scales around the world. Director of Bioline International, an international collaborative open access platform, Leslie is a long time advocate for knowledge equity and inclusive development. Leslie has served as advisor to numerous projects and organizations, including the Canadian Research Knowledge Network, the American Anthropological Association, the International Development Research Centre, UNESCO, the Open Society Foundation, the Directory of Open Access Journal, more recently the San Francisco Declaration on Research Assessment (DORA). Leslie is the principal investigator for the Open and Collaborative Science in Development Network (OCSDNet), funded by IDRC in Canada and DFID in the UK, and the PI of the Knowledge G.A.P project.</p>
-    </div>
-</div>
-
 ## Sponsors
 
 Help make OpenCon Cascadia great! We are looking for sponsors to keep our event *low cost to attend* and to fund:<br>
 Lunch - Coffee breaks - Childcare - AV Support - First-rate speakers - Free tickets
 
 ### Gold Sponsor: $2500+
+
 - Exclusive sponsorship of lunch with signage
 - 10-minute speaking opportunity
 - Logo on our website, fliers, and promotional material
 - Recognition during conference opening remarks
 
 ### Silver Sponsor: $1500-2499
+
 - Exclusive sponsorship of a coffee break with signage
 - 5-minute speaking opportunity
 - Logo on our website, fliers, and promotional material
 - Recognition during conference opening remarks
 
 ### Bronze Sponsor: $500-1499
+
 - Logo on our website, fliers, and promotional material
 - Recognition during conference opening remarks
 
 Interested in becoming a sponsor? Please email us at [openconcascadia@gmail.com](mailto:openconcascadia@gmail.com)!
+
+## The Organizing Committee
+
+The names and faces of all the amazing people who make OpenCon Cascadia happen:
+
+- Daniela Saderi / OHSU / PREreview
+- Pam Pierce / OHSU
+- Robin Champieux / OHSU 
+- Luci Moore / OHSU
+- Danielle Robinson / Code for Science & Society
+- Ashley Farley / Gates 
+- Sami Friedrich / OHSU
+- Emily Ford/ Portland State
+- Lilly Winfree / OHSU - Monarch Initiative
+- Jill Emery / PSU
+- Jonathan Cain / University of Oregon Libraries
+- Asura Enkhbayar / SFU / Open Knowledge Maps
+- David Isaak / Reed College
+- Olivia Hancock/OHSU
+- Clara Llebot / Oregon State University
+- Leila Sterman / Montana State
+- Theresa Cheng / University of Oregon
 
