@@ -55,7 +55,7 @@ The names and faces of all the amazing people who make OpenCon Cascadia happen:
 - Ashley Farley / Gates 
 - Sami Friedrich / OHSU
 - Emily Ford/ Portland State
-- Lilly Winfree / OHSU - Monarch Initiative
+- Lilly Winfree / Open Knowledge International
 - Jill Emery / PSU
 - Jonathan Cain / University of Oregon Libraries
 - Asura Enkhbayar / SFU / Open Knowledge Maps
