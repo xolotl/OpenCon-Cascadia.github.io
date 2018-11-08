@@ -15,6 +15,13 @@ defaults:
     layout: person
     author:
 
+# Page-gen
+page_gen:
+- data: 'members'
+  template: 'person'
+  name: 'title'
+  dir: 'team'
+
 # Jekyll
 permalink:          /blog/:title/
 markdown:           kramdown

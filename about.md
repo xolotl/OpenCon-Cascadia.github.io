@@ -48,9 +48,11 @@ Interested in becoming a sponsor? Please email us at [openconcascadia@gmail.com]
 <div id="members">
     {% for person in site.data.members %}
     <div class="member">
-        <img src="{{ person.image }}" alt="{{ person.name }}">
+        <a href="/team/{{ person.name | slugify }}" style="border: 0;">
+            <img src="{{ person.image }}" alt="{{ person.name }}">
+        </a>
         <ul>
-            <li class="name">{{ person.name }}</li>
+            <a href="/team/{{ person.name | slugify }}"><li class="name">{{ person.name }}</li></a>
             <li class="job-title">{{ person.affiliation }}</li>
         </ul>
         <ul class="contact-member">
