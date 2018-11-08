@@ -2,6 +2,7 @@
 layout: page
 title: Conference Program
 description: Conference Program
+permalink: /program/
 sitemap:
     priority: 0.7
     lastmod: 2018-11-07

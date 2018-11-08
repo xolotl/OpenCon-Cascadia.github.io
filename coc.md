@@ -2,6 +2,7 @@
 layout: page
 title: Code of Conduct
 description: Our Code of Conduct
+permalink: /coc/
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02

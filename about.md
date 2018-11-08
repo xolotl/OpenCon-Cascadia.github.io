@@ -2,6 +2,7 @@
 layout: page
 title: About OpenCon Cascadia
 description: About us.
+permalink: /about/
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
