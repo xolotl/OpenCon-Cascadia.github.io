@@ -6,17 +6,14 @@ locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    permalink: "/blog/:title/"
-    layout: post
-    author:
+# Page-gen for team members
+page_gen:
+- data: 'members'
+  template: 'person'
+  name: 'name'
+  dir: 'team'
 
 # Jekyll
-permalink:          /blog/:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
@@ -30,12 +27,8 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-# Comments
-disqus_shortname:   default
-
 # Social
-analytics-id:       "default"
-#twitter:           OpenConCascadia19
+# twitter:           OpenConCascadia19
 github:             OpenCon-Cascadia
 
 # personal
@@ -49,9 +42,6 @@ gems:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-
-paginate: 6
-paginate_path: "/blog/page:num/"
 
 jekyll-mentions:
     base_url: https://github.com
