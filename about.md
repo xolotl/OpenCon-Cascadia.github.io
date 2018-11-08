@@ -22,7 +22,7 @@ Join us at OpenCon Cascadia to share stories, discuss challenges, and connect wi
 <div id="members">
     {% for person in site.data.members %}
     <div class="member">
-        <a href="/team/{{ person.name | slugify }}" style="border: 0;">
+        <a href="/team/{{ person.name | slugify | absolute_url}}" style="border: 0;">
             <img src="{{ person.image }}" alt="{{ person.name }}">
         </a>
         <ul>
