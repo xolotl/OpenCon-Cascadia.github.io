@@ -37,14 +37,11 @@ email:              openconcascadia@gmail.com
 
 # Gems
 gems:
-  - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-
-jekyll-mentions:
-    base_url: https://github.com
+  - github-pages
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
