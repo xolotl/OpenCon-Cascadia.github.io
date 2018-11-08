@@ -3,7 +3,6 @@ title:              OpenCon Cascadia
 bio:                ''
 description:        "The Pacific Northwest OpenCon"
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Page-gen for team members
@@ -38,9 +37,6 @@ email:              openconcascadia@gmail.com
 # Gems
 gems:
   - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
   - github-pages
 
 # Exclude list
