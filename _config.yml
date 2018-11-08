@@ -6,11 +6,16 @@ locale:             en_US
 url: "" # the base hostname & protocol for your site
 
 # Page-gen for team members
-page_gen:
-- data: 'members'
-  template: 'person'
-  name: 'name'
-  dir: 'team'
+# page_gen:
+# - data: 'members'
+#   template: 'person'
+#   name: 'name'
+#   dir: 'team'
+
+collections:
+  team:
+    output: true
+    permalink: /team/:name
 
 # Jekyll
 markdown:           kramdown

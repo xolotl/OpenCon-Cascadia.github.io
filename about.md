@@ -21,13 +21,13 @@ Join us at OpenCon Cascadia to share stories, discuss challenges, and connect wi
 ## Organizing Committee
 
 <div id="members">
-    {% for person in site.data.members %}
+    {% for person in site.team %}
     <div class="member">
-        <a href="/team/{{ person.name | slugify }}" style="border: 0;">
+        <a href="/team/{{ person.title | slugify }}" style="border: 0;">
             <img src="{{ person.image }}" alt="{{ person.name }}">
         </a>
         <ul>
-            <a href="/team/{{ person.name | slugify }}"><li class="name">{{ person.name }}</li></a>
+            <a href="/team/{{ person.title | slugify }}"><li class="name">{{ person.name }}</li></a>
             <li class="job-title">{{ person.affiliation }}</li>
         </ul>
         <ul class="contact-member">
