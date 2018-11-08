@@ -9,10 +9,10 @@ url: "" # the base hostname & protocol for your site
 defaults:
 - scope:
     path: ''
-    type: posts
+    type: team
   values:
-    permalink: "/blog/:title/"
-    layout: post
+    permalink: "/team/:title/"
+    layout: person
     author:
 
 # Jekyll
@@ -30,9 +30,6 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-# Comments
-disqus_shortname:   default
-
 # Social
 analytics-id:       "default"
 #twitter:           OpenConCascadia19
@@ -49,9 +46,6 @@ gems:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-
-paginate: 6
-paginate_path: "/blog/page:num/"
 
 jekyll-mentions:
     base_url: https://github.com

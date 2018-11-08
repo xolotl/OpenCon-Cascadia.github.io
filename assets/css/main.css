@@ -4493,3 +4493,90 @@
 		}
 
 	}
+
+	/* Member pages */
+	
+	#members {
+		max-width: 1000px;
+	}
+
+	#members {
+		width:100%;
+		max-width: 1200px;
+		margin:0px auto 50px;
+		text-align: center;
+	}
+	
+	#members h3 {
+		text-align: center;
+		text-transform: none;
+		color: #2D3E52;
+		margin-top: 50px;
+	}
+	
+	.member {
+		text-align:center;
+		display: inline-block;
+		margin: 20px;
+		vertical-align: top;
+		background-repeat:no-repeat;
+		background-size: 100%;
+		max-width: 350px;
+	}
+	
+	.member, .member img {
+		max-width: 165px;
+		border-radius: 50%;
+	}
+
+	.member ul {
+		display: block;
+		text-align:center;
+		padding: 0;
+		margin-bottom: 10px;
+		list-style-type: none;
+	}
+	
+	.contact-member li {
+		display: inline-block;
+		margin: auto;
+		font-size: 18px;
+		list-style: none;
+	}
+	
+	.contact-icon {
+		text-align: center;
+		border-radius: 50%;
+		-moz-border-radius: 40px;
+		width: 40px;
+		height: 40px;
+		background-color: #eaeaea;
+		display: inline-block;
+		vertical-align: middle;
+	}
+	
+	.contact-icon .fa {
+		vertical-align: top;
+		top: 10px;
+		position: relative;
+	}
+	
+	.contact-member a {
+		text-decoration: none;
+		color:#2D3E52;
+	}
+	
+	.contact-member a:hover {
+		text-decoration: none;
+		background-color: #2c3e52;
+		color: white;
+	}
+
+	.name {
+		font-weight: 800;
+		font-size: 14px;
+	}
+
+	.job-title {
+        font-size: 12px;
+    }
