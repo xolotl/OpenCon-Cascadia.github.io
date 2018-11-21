@@ -80,7 +80,7 @@ We do not have any official profiles or handles but we encourage you to use the 
 
 ### When will registration open and close? 
 
-Registration will open by the end of November and will close the day of the conference, February 1, 2019. 
+Registration is open now (register here: [https://openconcascadia.eventbrite.com](https://openconcascadia.eventbrite.com)) and will close the day of the conference, February 1, 2019. 
 
 ### What is the schedule like?
 
