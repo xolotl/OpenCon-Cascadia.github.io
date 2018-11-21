@@ -66,13 +66,13 @@
 	}
 
 	.keynotes {
-		display: flex;
+		xdisplay: flex;
 		align-items: center;
 	}
 
 	.keynotes.image {
 		flex:1;
-		display:flex;
+		display:left;
 		min-width: 0;
 	}
 
@@ -83,7 +83,7 @@
 	.keynotes div img {
 		flex:1;
 		border-radius:50%;
-		align-self: center
+		xalign-self: center
 	}
 
 	.row > * {
