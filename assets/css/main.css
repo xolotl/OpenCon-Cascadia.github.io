@@ -70,13 +70,13 @@
 		align-items: center;
 	}
 
-	.keynotes .image {
+	.keynotes.image {
 		flex:1;
 		display:flex;
 		min-width: 0;
 	}
 
-	.keynotes .text {
+	.keynotes.text {
 		flex:3;
 	}
 
