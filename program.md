@@ -16,7 +16,7 @@ Stay tuned for more information!
 ### Keynote Speakers
 
 <div class="row keynotes">
-	<div class="image">
+	<div class="image left">
 		<img src="/images/keynotes/kadija-ferryman-headshot.jpg" alt="" />
 	</div>
     <div class="text">
@@ -25,7 +25,7 @@ Stay tuned for more information!
 </div>
 <hr>
 <div class="row keynotes">
-    <div class="image">
+    <div class="image left">
         <img src="/images/keynotes/leslie-chan-headshot-square.png" alt="" />
     </div>
     <div class="text">
