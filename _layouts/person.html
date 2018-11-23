@@ -32,10 +32,10 @@
     <div id="main">
       <section class="post">
         <div class="row keynotes">
-          <div class="image left">
+          <div class="image 4u 8u(small) -2u(small)">
             <img src="{{page.image}}" alt="" />
           </div>
-          <div class="text">
+          <div class="text 8u 12u(small)">
             <header class="major">
               <h1>{{ page.name }}</h1>
               <h3>{{ page.affiliation }}</h3>
@@ -54,13 +54,14 @@
         </div>
         <hr>
         <div>
-          <p> {{ content }}</p>
-          <p>
-            <ul class="actions">
-              <li><a href="/about#organizing-committee" class="button">back to the OC</a></li>
-            </ul>
-          </p>
-
+          <div class="container">
+            <p> {{ content }}</p>
+            <p>
+              <ul class="actions">
+                <li><a href="/about#organizing-committee" class="button">back to the OC</a></li>
+              </ul>
+            </p>              
+          </div>
         </div>
       </section>
 

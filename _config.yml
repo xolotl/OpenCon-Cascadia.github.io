@@ -16,6 +16,9 @@ collections:
   team:
     output: true
     permalink: /team/:name
+  speakers:
+    output: true
+    permalink: /speakers/:name
 
 # Jekyll
 markdown:           kramdown
