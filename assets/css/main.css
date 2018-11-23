@@ -66,24 +66,17 @@
 	}
 
 	.keynotes {
-		xdisplay: flex;
 		align-items: center;
 	}
 
-	.keynotes.image {
-		flex:1;
-		display:left;
-		min-width: 0;
-	}
-
-	.keynotes.text {
-		flex:3;
-	}
-
 	.keynotes div img {
-		flex:1;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		
 		border-radius:50%;
-		xalign-self: center
+		max-width:100%;
+		max-height:auto;
 	}
 
 	.row > * {
