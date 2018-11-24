@@ -1,6 +1,6 @@
 ---
 layout: person
-name: Luci Moore
+name: Lucille Moore
 affiliation: OHSU
 twitter: @lucilleamoore
 github: LuciMoore
