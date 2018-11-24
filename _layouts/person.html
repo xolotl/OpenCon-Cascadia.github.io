@@ -41,11 +41,11 @@
               <h3>{{ page.affiliation }}</h3>
               <ul class="contact-member">
                 {% if page.twitter != null %}
-                <li><a class="contact-icon" target="_blank" href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"
+                <li><a class="contact-icon" target="_blank" href="http://twitter.com/{{ page.twitter }}"><i class="fa fa-twitter"
                       aria-hidden="true"></i></a></li>
                 {% endif %}
                 {% if page.github != null %}
-                <li><a class="contact-icon" target="_blank" href="http://github.com/{{ person.github }}"><i class="fa fa-github"
+                <li><a class="contact-icon" target="_blank" href="http://github.com/{{ page.github }}"><i class="fa fa-github"
                       aria-hidden="true"></i></a></li>
                 {% endif %}
               </ul>
