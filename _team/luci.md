@@ -2,7 +2,7 @@
 layout: person
 name: Lucille Moore
 affiliation: OHSU
-twitter: @lucilleamoore
+twitter: lucilleamoore
 github: LuciMoore
 image: "/images/oc/Luci_headshot.png"
 ---
