@@ -54,6 +54,7 @@ Lunch - Coffee breaks - Childcare - AV Support - First-rate speakers - Free tick
 - Logo on our website, fliers, and promotional material
 - Recognition during conference opening remarks
 
+
 #### Silver Sponsor: $1500-2499
 
 - Exclusive sponsorship of a coffee break with signage
@@ -61,9 +62,97 @@ Lunch - Coffee breaks - Childcare - AV Support - First-rate speakers - Free tick
 - Logo on our website, fliers, and promotional material
 - Recognition during conference opening remarks
 
+<div class="member">
+    <a href="https://library.pdx.edu/" target = "_blank" style="border: 0;">
+        <img src="/images/psu_logo.png" alt="Portland State University" />
+    </a>
+    <ul>
+        <a href="https://library.pdx.edu/" target = "_blank"><li class="name">Portland State University Library</li></a>
+    </ul>
+    <ul class="contact-member">
+    </ul>
+</div>
+
+<div class="member">
+    <a href="https://library.uoregon.edu/" target = "_blank" style="border: 0;">
+        <img src="/images/UofO_logo.png" alt="University of Oregon" />
+    </a>
+    <ul>
+        <a href="https://library.uoregon.edu/" target = "_blank"><li class="name">University of Oregon Library</li></a>
+    </ul>
+    <ul class="contact-member">
+    </ul>
+</div>
+
 #### Bronze Sponsor: $500-1499
 
 - Logo on our website, fliers, and promotional material
 - Recognition during conference opening remarks
+
+<div class="member">
+    <a href="https://library.whitman.edu/" target = "_blank" style="border: 0;">
+        <img src="/images/whitman_logo.JPG" alt="Whitman University" />
+    </a>
+    <ul>
+        <a href="https://library.whitman.edu/" target = "_blank"><li class="name">Whitman University Penrose Library</li></a>
+    </ul>
+    <ul class="contact-member">
+    </ul>
+</div>
+
+<div class="member">
+    <a href="https://library.reed.edu/" target = "_blank" style="border: 0;">
+        <img src="/images/reed_logo.png" alt="Reed College" />
+    </a>
+    <ul>
+        <a href="https://library.reed.edu/" target = "_blank"><li class="name">Reed College Library</li></a>
+    </ul>
+    <ul class="contact-member">
+    </ul>
+</div>
+
+<div class="member">
+    <a href="https://college.lclark.edu/library/" target = "_blank" style="border: 0;">
+        <img src="/images/lewis_clark_logo.png" alt="Lewis and Clark" />
+    </a>
+    <ul>
+        <a href="https://college.lclark.edu/library/" target = "_blank"><li class="name">Lewis and Clark Library</li></a>
+    </ul>
+    <ul class="contact-member">
+    </ul>
+</div>
+
+<div class="member">
+    <a href="https://library.willamette.edu/" target = "_blank" style="border: 0;">
+        <img src="/images/willamette_logo.png" alt="willamette University" />
+    </a>
+    <ul>
+        <a href="https://library.willamette.edu/" target = "_blank"><li class="name">Willamette University Library</li></a>
+    </ul>
+    <ul class="contact-member">
+    </ul>
+</div>
+
+<div class="member">
+    <a href="https://www.ohsu.edu/xd/education/student-services/student-life/ohsu-student-council/" target = "_blank" style="border: 0;">
+        <img src="/images/all_hill_logo.png" alt="All-Hill OHSU" />
+    </a>
+    <ul>
+        <a href="https://www.ohsu.edu/xd/education/student-services/student-life/ohsu-student-council/" target = "_blank"><li class="name">OHSU All Hill Student Council</li></a>
+    </ul>
+    <ul class="contact-member">
+    </ul>
+</div>
+
+<div class="member">
+    <a href ="https://www.mozilla.org/en-US/" target = "_blank" style="border: 0;">
+        <img src="/images/mozilla_logo.png" alt="Mozilla" />
+    </a>
+    <ul>
+        <a href="https://www.mozilla.org/en-US/" target = "_blank"><li class="name">Mozilla</li></a>
+    </ul>
+    <ul class="contact-member">
+    </ul>
+</div>
 
 Interested in becoming a sponsor? Please email us at [openconcascadia@gmail.com](mailto:openconcascadia@gmail.com)!
