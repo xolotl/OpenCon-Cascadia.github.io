@@ -2855,12 +2855,13 @@
 	}
 
 	table {
+		table-layout: fixed;
 		margin: 0 0 2rem 0;
 		width: 100%;
 	}
 
 		table tbody tr {
-			border: solid 1px;
+			border: solid 2px;
 			border-left: 0;
 			border-right: 0;
 		}

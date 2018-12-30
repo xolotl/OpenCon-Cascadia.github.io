@@ -12,6 +12,8 @@ url: "" # the base hostname & protocol for your site
 #   name: 'name'
 #   dir: 'team'
 
+include: ['_pages']
+
 collections:
   team:
     output: true

@@ -2,8 +2,8 @@
 layout: person
 name: Asura Enkhbayar
 affiliation: SFU & Open Knowledge Maps
-twitter: 
-github: 
+twitter: bubblbu_
+github: bubblbu
 image: "/images/oc/asura.jpg"
 ---
 
