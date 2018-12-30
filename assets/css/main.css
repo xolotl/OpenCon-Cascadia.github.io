@@ -4568,6 +4568,10 @@
 		margin-bottom: 10px;
 		list-style-type: none;
 	}
+
+	.member a {
+		border: 0px;
+	}
 	
 	.contact-member li {
 		display: inline-block;
@@ -4612,4 +4616,62 @@
 
 	.job-title {
         font-size: 12px;
-    }
+	}
+	
+/* Sponsers */
+
+	#sponsors {
+		max-width: 1000px;
+	}
+
+	#sponsor {
+		width:100%;
+		max-width: 1200px;
+		margin:0px auto 50px;
+		text-align: center;
+	}
+
+	#sponsor h3 {
+		text-align: center;
+		text-transform: none;
+		color: #2D3E52;
+		margin-top: 50px;
+	}
+
+	.sponsor {
+		text-align:center;
+		display: inline-block;
+		margin: 20px;
+		vertical-align: top;
+		background-repeat:no-repeat;
+		background-size: 100%;
+		max-width: 350px;
+	}
+
+	.sponsor .logo {
+		position:relative;
+		height: 75px;
+		width: auto;
+	}
+
+	.sponsor img {
+		margin:auto;
+		left: 0;
+		right: 0;
+		top: 0;
+		bottom: 0;
+		max-height: 75px;
+		max-width: 210px;
+	}
+
+	.sponsor a {
+		height: 75px;
+		border: 0;
+	}
+
+	.sponsor ul {
+		text-align:center;
+		padding: 0;
+		margin-bottom: 10px;
+		list-style-type: none;
+	}
