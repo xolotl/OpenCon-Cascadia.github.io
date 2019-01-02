@@ -80,7 +80,7 @@ OHSU Robertson Life Sciences Building<br>
   </tr>
   <tr>
     <td>9:15 am</td>
-    <td><b>Open Scholarship Panel</b> (Discussion + Q&A)<br>
+    <td><b>Open Scholarship Panel</b> (Discussion + Q&amp;A)<br>
             Moderator: TBC<br>
             Panelists: Dr. David Edwards, TBC, TBC, TBC, TBC<br>
         <hr style="margin:10px">
@@ -92,7 +92,7 @@ OHSU Robertson Life Sciences Building<br>
   </tr>
   <tr>
     <td>11:00 am</td>
-    <td><b>Morning Keynote</b> (Talk + Q&A) <br> Keynote speaker: Dr. Leslie Chan<br> Title: <emph> Whose Open Science? How Technology Structures Knowledge Inequality</emph><br> 
+    <td><b>Morning Keynote</b> (Talk + Q&amp;A) <br> Keynote speaker: Dr. Leslie Chan<br> Title: <emph> Whose Open Science? How Technology Structures Knowledge Inequality</emph><br> 
       <hr style="margin:10px">
       <p style="font-size:.85rem">Leslie will discuss how the open science movement and those who are advancing it, need to always maintain a critical and reflexive perspective about the work they do and they advocate for. Too often technology-driven approaches lead to silencing the diversity of knowledge produced around the world in favor of an homogeneous status quo, thereby reproducing and amplifying existing structures of inequality.</td>
   </tr>
@@ -102,7 +102,7 @@ OHSU Robertson Life Sciences Building<br>
   </tr>
   <tr>
     <td>1:00 pm</td>
-    <td><b>Diversity, Equity, and Inclusion Panel</b> (Discussion + Q&A)<br>
+    <td><b>Diversity, Equity, and Inclusion Panel</b> (Discussion + Q&amp;A)<br>
         Moderator: TBC<br>
         Panelists: Dr. Letisha Wyatt, TBC, TBC, TBC, TBC<br>
       <hr style="margin:10px">
@@ -114,7 +114,7 @@ OHSU Robertson Life Sciences Building<br>
   </tr>
   <tr>
     <td>2:30 pm</td>
-    <td><b>Afternoon Keynote</b> (Talk + Q&A)<br>
+    <td><b>Afternoon Keynote</b> (Talk + Q&amp;A)<br>
         Keynote Speaker: Dr. Kadija Ferryman<br>
         Title: Precision Medicine: Connecting Openness and Equity<br>
       <hr style="margin:10px"><p style="font-size:.85rem">Description: <i>TBA</i></p></td>
