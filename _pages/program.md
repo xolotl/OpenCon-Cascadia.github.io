@@ -69,59 +69,72 @@ OHSU Robertson Life Sciences Building<br>
       <th>Session</th>
     </tr>
   </thead>
+    
   <tr>
     <td>8:30 am</td>
     <td>Doors open – Registration</td>
   </tr>
+  
   <tr>
     <td>9:00 am</td>
     <td>Welcome and Conference Introduction</td>
   </tr>
+  
   <tr>
     <td>9:15 am</td>
-    <td><b>Morning Keynote</b> (Talk + Q&A)<br>Keynote speaker: Dr. Kadija Ferryman<br>Title: <emph>TBA</emph></td>
-  </tr>
-  <tr>
-    <td>10:00 am</td>
-    <td>Coffee + Donuts break</td>
-  </tr>
-  <tr>
-    <td>10:30 am</td>
     <td><b>Open Scholarship Panel</b> (Discussion + Q&A)<br>
             Moderator: TBC<br>
-            Panelists: TBC, TBC, TBC, TBC, TBC<br>
+            Panelists: Dr. David Edwards, TBC, TBC, TBC, TBC<br>
             <hr style="margin:10px">
-            <p style="font-size:.85rem">The concept of open scholarship can differ between communities of practice. This panel will explore the variations and intersection of ‘openness’ in the domains of science, education, social justice, and big data. Panelists will share their projects, experiences, and perspectives. The short talks will be followed by a moderated Q&A session in which the audience will have the opportunity to ask questions.</p></td>
+            <p style="font-size:.85rem">The concept of open scholarship can differ between communities of practice. This panel will      explore the variations and intersection of ‘openness’ in the domains of science, education, social justice, and big data. Panelists will share their projects, experiences, and perspectives. The short talks will be followed by a moderated Q&A session in which the audience will have the opportunity to ask questions.</p></td>
   </tr>
+  
   <tr>
-    <td>11:45 am</td>
+    <td>10:30 am</td>
+    <td>Coffee + Donuts break</td>
+  </tr>
+  
+  <tr>
+    <td>11:00 am</td>
+    <td><b>Morning Keynote</b> (Talk + Q&A) <br> Keynote speaker: Dr. Leslie Chan<br> Title: <emph> Whose Open Science? How Technology Structures Knowledge Inequality</emph><br> 
+    <hr style="margin:10px">
+    <p style="font-size:.85rem">Leslie will discuss how the open science movement and those who are advancing it, need to always maintain a critical and reflexive perspective about the work they do and they advocate for. Too often technology-driven approaches lead to silencing the diversity of knowledge produced around the world in favor of an homogeneous status quo, thereby reproducing and amplifying existing structures of inequality.</td>
+  </tr>
+ 
+  <tr>
+    <td>12:00 am</td>
     <td>Lunch (Provided)</td>
   </tr>
+  
   <tr>
     <td>1:00 pm</td>
-    <td>
-        <b>Afternoon Keynote</b> (Talk + Q&A)<br>
-        Keynote Speaker: Dr. Leslie Chan<br>
-        Title: TBD</td>
-  </tr>
-    <tr>
-    <td>2:00 pm</td>
     <td><b>Diversity, Equity, and Inclusion Panel</b> (Discussion + Q&A)<br>
         Moderator: TBC<br>
-        Panelists: TBC, TBC, TBC, TBC, TBC<br>
+        Panelists: Dr. Letisha Wyatt, TBC, TBC, TBC, TBC<br>
         <hr style="margin:10px">
         <p style="font-size:.85rem">Central to advancing openness is the belief that information should be shared in an equitable and accessible way. As we work together to build an open movement we need to constantly challenge our assumptions and ensure we do not replicate some of the same structures of power and systems of oppression that dominate the current framework of scholarship and education. This panel aims highlight some of the excellent work our local community is already doing and spark a critical discussion around issues of diversity, equity, and inclusions and how we can do better.</p></td>
   </tr>
-    <tr>
-    <td>3:15 pm</td>
+  
+  <tr>
+    <td>2:15 pm</td>
     <td>Coffee break</td>
   </tr>
-    <tr>
-    <td>3:45 pm</td>
+  
+  <tr>
+    <td>2:30 pm</td>
+    <td><b>Afternoon Keynote</b> (Talk + Q&A)<br>
+        Keynote Speaker: Dr. Kadija Ferryman<br>
+        Title: TBA<br>
+        <hr style="margin:10px"><p style="font-size:.85rem">Description: <i>TBA</i></p></td>
+  </tr>
+  
+   <tr>
+    <td>3:30 pm</td>
     <td>Open Do-a-thon
     <hr style="margin:10px"><p style="font-size:.85rem">Description: <i>TBA</i></p></td>
   </tr>
-    <tr>
+  
+   <tr>
     <td>4:45 pm</td>
     <td>Closing remarks</td>
   </tr>
