@@ -94,7 +94,7 @@ OHSU Robertson Life Sciences Building<br>
     <td>11:00 am</td>
     <td><b>Morning Keynote</b> (Talk + Q&amp;A) <br> Keynote speaker: Dr. Leslie Chan<br> Title: <emph> Whose Open Science? How Technology Structures Knowledge Inequality</emph><br> 
       <hr style="margin:10px">
-      <p style="font-size:.85rem">Leslie will discuss how the open science movement and those who are advancing it, need to always maintain a critical and reflexive perspective about the work they do and they advocate for. Too often technology-driven approaches lead to silencing the diversity of knowledge produced around the world in favor of an homogeneous status quo, thereby reproducing and amplifying existing structures of inequality.</td>
+      <p style="font-size:.85rem">Leslie will discuss how the open science movement and those who are advancing it, need to always maintain a critical and reflexive perspective about the work they do and they advocate for. Too often technology-driven approaches lead to silencing the diversity of knowledge produced around the world in favor of an homogeneous status quo, thereby reproducing and amplifying existing structures of inequality.</p></td>
   </tr>
   <tr>
     <td>12:00 am</td>
