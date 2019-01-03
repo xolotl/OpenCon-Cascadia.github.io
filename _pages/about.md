@@ -65,6 +65,17 @@ Interested in becoming a sponsor? Please email us at [openconcascadia@gmail.com]
 
 <div id="sponsors">
 <center>
+    </div>
+    <div class="sponsor">
+        <div class="logo">
+            <a href ="https://www.mozilla.org/en-US/" target = "_blank">
+                <img src="/images/mozilla_logo.png" alt="Mozilla" />
+            </a>
+        </div>
+        <!-- <ul>
+            <a href="https://www.mozilla.org/en-US/" target = "_blank"><li class="name">Mozilla</li></a>
+        </ul> -->
+    </div>
     <div class="sponsor">
         <div class="logo">
             <a href="https://library.pdx.edu/" target = "_blank">
@@ -144,16 +155,5 @@ Interested in becoming a sponsor? Please email us at [openconcascadia@gmail.com]
         <!-- <ul>
             <a href="https://www.ohsu.edu/xd/education/student-services/student-life/ohsu-student-council/" target = "_blank"><li class="name">OHSU All Hill Student Council</li></a>
         </ul> -->
-    </div>
-    <div class="sponsor">
-        <div class="logo">
-            <a href ="https://www.mozilla.org/en-US/" target = "_blank">
-                <img src="/images/mozilla_logo.png" alt="Mozilla" />
-            </a>
-        </div>
-        <!-- <ul>
-            <a href="https://www.mozilla.org/en-US/" target = "_blank"><li class="name">Mozilla</li></a>
-        </ul> -->
-    </div>
 </center>
 </div>
