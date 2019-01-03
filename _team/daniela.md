@@ -1,7 +1,7 @@
 ---
 layout: person
 name: Daniela Saderi
-affiliation: OHSU, Mozilla, PREreview
+affiliation: Mozilla, PREreview, OHSU
 twitter: Neurosarda
 github: dasaderi
 image: "/images/oc/daniela.jpg"
