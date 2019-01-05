@@ -10,6 +10,7 @@ sitemap:
 ---
 
 # Program
+#### *Schedule subject to change. Check back for updates.*  
 
 ### Friday February 1, 5:30 PM - 8:30 PM
 
