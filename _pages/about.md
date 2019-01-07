@@ -104,6 +104,7 @@ Interested in becoming a sponsor? Please email us at [openconcascadia@gmail.com]
         <!-- <ul>
             <a href="https://www.ohsu.edu/library" target = "_blank"><li class="name">OHSU Library</li></a>
         </ul> -->
+    </div>
 </center>
 </div>
 
