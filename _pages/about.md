@@ -95,6 +95,15 @@ Interested in becoming a sponsor? Please email us at [openconcascadia@gmail.com]
             <a href="https://library.uoregon.edu/" target = "_blank"><li class="name">University of Oregon Library</li></a>
         </ul> -->
     </div>
+     <div class="sponsor">
+        <div class="logo">
+            <a href ="https://www.ohsu.edu/library" target = "_blank">
+                <img src="/images/OHSU-RGB-4C-POS.png" alt="OHSU Library" />
+            </a>
+        </div>
+        <!-- <ul>
+            <a href="https://www.ohsu.edu/library" target = "_blank"><li class="name">OHSU Library</li></a>
+        </ul> -->
 </center>
 </div>
 
