@@ -82,7 +82,7 @@ OHSU Robertson Life Sciences Building<br>
   <tr>
     <td>9:15 am</td>
     <td><b>Open Scholarship Panel</b> (Discussion + Q&amp;A)<br>
-        Panelists: Dr. David Edwards, Dr. Crystallee Crain, Edward Tsoi, Jen Klaudinyi, and Hannah Stepanek<br>
+        Panelists: Dr. David Edwards, Dr. Crystallee Crain, Douglas Tsoi, Jen Klaudinyi, and Hannah Stepanek<br>
         <hr style="margin:10px">
         <p style="font-size:.85rem">The concept of open scholarship can differ between communities of practice. This panel will      explore the variations and intersection of ‘openness’ in the domains of science, education, social justice, and big data. Panelists will share their projects, experiences, and perspectives. The short talks will be followed by a moderated Q&A session in which the audience will have the opportunity to ask questions.</p></td>
   </tr>
