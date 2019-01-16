@@ -11,7 +11,8 @@ sitemap:
 
 ## What is a Do-a-Thon?
 
-> A do-a-thon is a short sprint where people from different perspectives and skill sets work together and collaborate on challenges, projects, or learning something new.  For OpenCon Cascadia’s do-a-thon, we’ll be focusing on activities that seek to make research and scholarship more open, inclusive, and accessible.
+A do-a-thon is a short sprint where people from different perspectives and skill sets work together and collaborate on challenges, projects, or learning something new.  For OpenCon Cascadia’s do-a-thon, we’ll be focusing on activities that seek to make research and scholarship more open, inclusive, and accessible.
+
 ## Our Do-a-Thon has three key goals:
 
 **1. Focus on doing.**
@@ -27,7 +28,7 @@ We're asking participants to think about the hurdles and perspectives that conte
 Amazing things can happen when people with a wide variety of skills and experience come together. We want policy makers to talk to educators, librarians to work with web developers, designers to collaborate with researchers, and everything in between. We're excited to see what happens when folks across disciplines pool together their knowledge to imagine something big.
 ## How can I participate?
 
-> The official do-a-thon date is on February 2nd, but we're encouraging folks to get started before — and hopefully, carry on projects and collaboration after. Here are a few ways you can get involved and participate:
+The official do-a-thon date is on February 2nd, but we're encouraging folks to get started before — and hopefully, carry on projects and collaboration after. Here are a few ways you can get involved and participate:
 
 **Anyone can propose something to work on.**
 
