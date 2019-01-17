@@ -40,6 +40,10 @@
               <h1>{{ page.name }}</h1>
               <h3>{{ page.affiliation }}</h3>
               <ul class="contact-member">
+                {% if page.blog != null %}
+                <li><a class="contact-icon" target="_blank" href="{{ page.blog }}"><i class="fa fa-globe fa-lg"
+                      aria-hidden="true"></i></a></li>
+                {% endif %}   
                 {% if page.twitter != null %}
                 <li><a class="contact-icon" target="_blank" href="http://twitter.com/{{ page.twitter }}"><i class="fa fa-twitter fa-lg"
                       aria-hidden="true"></i></a></li>
@@ -51,7 +55,7 @@
                 {% if page.orcid != null %}
                 <li><a class="contact-icon" target="_blank" href="http://orcid.org/{{ page.orcid }}"><i class="ai ai-orcid ai-lg"
                       aria-hidden="true"></i></a></li>
-                {% endif %}                
+                {% endif %}
               </ul>
             </header>
           </div>
