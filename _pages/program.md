@@ -135,6 +135,7 @@ OHSU Robertson Life Sciences Building<br>
 
 <div>
     {% for person in site.speakers %}
+      {% if person.type == "keynote" %}
         <div class="row keynotes">  
             <div class="image 4u 4u(medium) 6u(small) -3u(small)">
                 <img src="{{ person.image }}" alt="{{ person.name }}"/>
@@ -149,10 +150,6 @@ OHSU Robertson Life Sciences Building<br>
             </div>
         </div>
         <p></p>
-        <div class="row">
-            <div class="text 12u">
-                
-            </div>   
-        </div>
+        {% endif %}
     {% endfor %}
 </div>
