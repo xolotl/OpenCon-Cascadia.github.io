@@ -48,6 +48,10 @@
                 <li><a class="contact-icon" target="_blank" href="http://github.com/{{ page.github }}"><i class="fa fa-github"
                       aria-hidden="true"></i></a></li>
                 {% endif %}
+                {% if page.orcid != null %}
+                <li><a class="contact-icon" target="_blank" href="http://orcid.org/{{ page.orcid }}"><i class="ai ai-orcid ai-lg"
+                      aria-hidden="true"></i></a></li>
+                {% endif %}     
               </ul>
             </header>
           </div>
@@ -64,11 +68,6 @@
           </div>
         </div>
       </section>
-
-
-
-
-
     </div>
 
     <!-- Footer -->

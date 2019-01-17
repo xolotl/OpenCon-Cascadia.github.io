@@ -37,6 +37,9 @@ Join us at OpenCon Cascadia to share stories, discuss challenges, and connect wi
             {% if person.github != null %}
                 <li><a class="contact-icon" target="_blank" href="http://github.com/{{ person.github }}"><i class="fa fa-github" aria-hidden="true"></i></a></li>
             {% endif %}
+            {% if person.orcid != null %}
+                <li><a class="contact-icon" target="_blank" href="http://orcid.org/{{ page.orcid }}"><i class="ai ai-orcid" aria-hidden="true"></i></a></li>
+            {% endif %} 
         </ul>
     </div>
     {% endfor %}

@@ -1,5 +1,5 @@
 ---
-layout: person
+layout: team-member
 name: Olivia Hancock
 affiliation: OHSU
 twitter: 

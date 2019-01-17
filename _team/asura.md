@@ -1,9 +1,10 @@
 ---
-layout: person
+layout: team-member
 name: Asura Enkhbayar
 affiliation: SFU & Open Knowledge Maps
 twitter: bubblbu_
 github: bubblbu
+orcid: 0000-0002-3934-026X
 image: "/images/oc/asura.jpg"
 ---
 

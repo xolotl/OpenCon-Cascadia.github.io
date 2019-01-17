@@ -1,5 +1,5 @@
 ---
-layout: person
+layout: team-member
 name: Pam Pierce
 affiliation: OHSU
 twitter: 
