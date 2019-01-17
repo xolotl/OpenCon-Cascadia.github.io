@@ -1,5 +1,5 @@
 ---
-layout: person
+layout: team-member
 name: Ashley Farley
 affiliation: Bill & Melinda Gates Foundation
 twitter: ashleydfarley

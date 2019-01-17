@@ -1,5 +1,5 @@
 ---
-layout: person
+layout: team-member
 name: Theresa Cheng
 affiliation: University of Oregon
 twitter: 

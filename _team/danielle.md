@@ -1,5 +1,5 @@
 ---
-layout: person
+layout: team-member
 name: Danielle Robinson
 affiliation: Code for Science & Society
 twitter: daniellecrobins

@@ -1,5 +1,5 @@
 ---
-layout: person
+layout: team-member
 name: Nate Angell 
 affiliation: Hypothesis, Virtually Connecting
 twitter: xolotl

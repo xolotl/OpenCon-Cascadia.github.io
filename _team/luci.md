@@ -1,5 +1,5 @@
 ---
-layout: person
+layout: team-member
 name: Lucille Moore
 affiliation: OHSU
 twitter: lucilleamoore

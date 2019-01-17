@@ -1,5 +1,5 @@
 ---
-layout: person
+layout: team-member
 name: David Isaak
 affiliation: Reed College
 twitter: DavidCIsaak

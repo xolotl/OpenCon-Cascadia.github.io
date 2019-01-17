@@ -1,5 +1,5 @@
 ---
-layout: person
+layout: team-member
 name: Clara Llebot
 affiliation: Oregon State University
 twitter: 

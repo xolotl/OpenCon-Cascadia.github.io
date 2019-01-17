@@ -1,5 +1,5 @@
 ---
-layout: person
+layout: team-member
 name: Daniela Saderi
 affiliation: Mozilla, PREreview, OHSU
 twitter: Neurosarda

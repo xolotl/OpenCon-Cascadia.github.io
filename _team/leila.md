@@ -1,5 +1,5 @@
 ---
-layout: person
+layout: team-member
 name: Leila Sterman
 affiliation: Montana State
 twitter: 

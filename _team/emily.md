@@ -1,5 +1,5 @@
 ---
-layout: person
+layout: team-member
 name: Emily Ford
 affiliation: Portland State
 twitter: 

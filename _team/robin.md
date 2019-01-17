@@ -1,5 +1,5 @@
 ---
-layout: person
+layout: team-member
 name: Robin Champieux 
 affiliation: OHSU
 twitter: 
