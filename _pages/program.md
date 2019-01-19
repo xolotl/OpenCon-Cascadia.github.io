@@ -122,7 +122,7 @@ OHSU Robertson Life Sciences Building<br>
   <tr>
     <td>3:30 pm</td>
     <td>Open Do-a-thon
-    <hr style="margin:10px"><p style="font-size:.85rem">Description: <i>TBA</i></p></td>
+    <hr style="margin:10px"><p style="font-size:.85rem">Description: <i>A do-a-thon is a short sprint where people from different perspectives and skill sets work together and collaborate on challenges, projects, or to learning something new. For OpenCon Cascadia’s do-a-thon, we’ll be focusing on activities that seek to make research and scholarship more open, inclusive, and accessible. [Learn more and submit a project!](https://opencon-cascadia.github.io/doathon/)</i></p></td>
   </tr>
   <tr>
     <td>4:45 pm</td>
