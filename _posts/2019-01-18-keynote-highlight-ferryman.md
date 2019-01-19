@@ -2,7 +2,9 @@
 layout: post
 title: > 
     Keynote Speaker Highlight: Kadija Ferryman
-author: <a href="/team/Danielle">Danielle</a> and <a href="/team/Daniela">Daniela</a>
+authors:
+    - Danielle
+    - Daniela
 date: 2019-01-18
 excerpt: "Dr. Kadija Ferryman is a 2018-19 Mozilla Fellow for Science and researcher at Data & Society. With a background in 
 cultural anthropology, Dr. Ferryman studies health risks as a social, cultural, and ethical phenomenon."

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: > 
-    Panel Speaker Highlight: Douglas Tsoi
-author: <a href="/team/pam">Pam</a>
+title: "Panel Speaker Highlight: Douglas Tsoi"
+authors:
+    - Pam
 date: 2019-01-18
 excerpt: "Douglas Tsoi has been a lawyer, school teacher, and climate change activist. At OpenCon, he looks forward to highlighting the gap between the village and the ivory tower."
 image: 

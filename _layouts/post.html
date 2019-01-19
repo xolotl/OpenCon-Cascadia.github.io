@@ -34,7 +34,22 @@
         <header class="major">
           <span class="date">{{page.date | date_to_string}}</span>
           <h2>{{page.title}}</h2>
-          <p>written by {{page.author}}</p>
+          <div>
+            {% for author in page.authors %}
+              {% for person in site.team %}
+                {% if person.title == author %}
+                  <div>
+                    <a href="/team/{{ author | slugify }}">{{person.name}}</a>&nbsp;&nbsp;
+                    {% if person.twitter != null %}
+                      <a class="contact-icon" target="_blank" href="http://twitter.com/{{ person.twitter }}">
+                      <i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    {% endif %}
+                  </div>
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+          </div>
+          </p>
           <hr>
           {% comment %} <p>{{page.excerpt}}</p> {% endcomment %}
         </header>

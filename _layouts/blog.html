@@ -44,11 +44,27 @@
 								<header>
 									<span class="date">{{ post.date | date_to_string }}</span>
 									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+									{% for author in post.authors %}
+										{% for person in site.team %}
+											{% if person.title == author %}
+												<div style="text-align:center;">
+													<a href="/team/{{ author | slugify }}">{{person.name}}</a>&nbsp;&nbsp;
+													{% if person.twitter != null %}
+														<a class="contact-icon" target="_blank" href="http://twitter.com/{{ person.twitter }}">
+														<i class="fa fa-twitter" aria-hidden="true"></i></a>
+													{% endif %}
+												</div>
+											{% endif %}
+										{% endfor %}
+									{% endfor %}
+									</p>
 								</header>
-								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+								{% if post.image %}
+									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+								{% endif %}
 								<p>{{ post.excerpt }}</p>
 								<ul class="actions">
-									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+									<li><a href="{{ post.url | absolute_url }}" class="button">Read more</a></li>
 								</ul>
 							</article>
 						{% endfor %}

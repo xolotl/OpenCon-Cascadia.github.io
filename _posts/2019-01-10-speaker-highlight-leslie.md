@@ -1,8 +1,8 @@
 ---
 layout: post
-title: > 
-    Keynote Speaker Highlight: Leslie Chan
-author: <a href="/team/ashley">Ashley</a>
+title: "Keynote Speaker Highlight: Leslie Chan"
+authors:
+    - Ashley
 date: 2019-01-10
 excerpt: "Our opening keynote speaker, Leslie Chan, is a living embodiment of our mission - an eager  mentor, an innovative thinker, and is driven to build a more equitable knowledge ecosystem."
 image: 

@@ -4675,3 +4675,16 @@
 		margin-bottom: 10px;
 		list-style-type: none;
 	}
+
+/* Center images */
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
+/* Figure Captions */
+img + em {
+	display: block;
+	text-align: center;
+}
