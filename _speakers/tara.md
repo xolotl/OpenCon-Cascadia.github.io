@@ -4,7 +4,7 @@ name: Tara Robertson
 affiliation: Mozilla, Vancouver
 twitter: tararobertson
 github: 
-blog: http://tararobertson.ca/
+website: http://tararobertson.ca/
 image: "/images/speakers/tara.jpg"
 type: panel
 ---
