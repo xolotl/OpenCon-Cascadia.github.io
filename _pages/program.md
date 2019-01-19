@@ -122,7 +122,7 @@ OHSU Robertson Life Sciences Building<br>
   <tr>
     <td>3:30 pm</td>
     <td><b>Do-a-Thon</b>
-    <hr style="margin:10px"><p style="font-size:.85rem">A do-a-thon is a short sprint where people from different perspectives and skill sets work together and collaborate on challenges, projects, or to learning something new. For OpenCon Cascadia’s do-a-thon, we’ll be focusing on activities that seek to make research and scholarship more open, inclusive, and accessible.</p></td>
+    <hr style="margin:10px"><p style="font-size:.85rem">A do-a-thon is a short sprint where people from different perspectives and skill sets work together and collaborate on challenges, projects, or to learn something new. For OpenCon Cascadia’s do-a-thon, we’ll be focusing on activities that seek to make research and scholarship more open, inclusive, and accessible. <a href="https://opencon-cascadia.github.io/doathon/">Learn more and submit a project!</a></p></td>
   </tr>
   <tr>
     <td>4:45 pm</td>
