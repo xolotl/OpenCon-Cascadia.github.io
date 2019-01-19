@@ -11,7 +11,7 @@ sitemap:
 
 ## What is a Do-a-Thon?
 
-A do-a-thon is a short sprint where people from different perspectives and skill sets work together and collaborate on challenges, projects, or to learning something new.  For OpenCon Cascadia’s do-a-thon, we’ll be focusing on activities that seek to make research and scholarship more open, inclusive, and accessible.
+A do-a-thon is a short sprint where people from different perspectives and skill sets work together and collaborate on challenges, projects, or to learn something new.  For OpenCon Cascadia’s do-a-thon, we’ll be focusing on activities that seek to make research and scholarship more open, inclusive, and accessible.
 
 ## Our Do-a-Thon has three key goals:
 

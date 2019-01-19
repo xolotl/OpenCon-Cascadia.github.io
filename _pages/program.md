@@ -83,7 +83,8 @@ OHSU Robertson Life Sciences Building<br>
   <tr>
     <td>9:15 am</td>
     <td><b>Open Scholarship Panel</b> (Discussion + Q&amp;A)<br>
-        Panelists: <a href="/speakers/david">Dr. David Edwards</a>, <a href="/speakers/crystallee">Dr. Crystallee Crain</a>, <a href="/speakers/douglas">Douglas Tsoi</a>, <a href="/speakers/jen">Jen Klaudinyi</a>, and <a href="/speakers/hannah">Hannah Stepanek</a><br>
+        Moderator: <a href="/speakers/nick">Nick Shockey</a><br>
+        Panelists: <a href="/speakers/david">Dr. David Edwards</a>, <a href="/speakers/crystalle">Dr. Crystallee Crain</a>, <a href="/speakers/douglas">Douglas Tsoi</a>, <a href="/speakers/jen">Jen Klaudinyi</a>, and <a href="/speakers/hannah">Hannah Stepanek</a><br>
         <hr style="margin:10px">
         <p style="font-size:.85rem">The concept of open scholarship can differ between communities of practice. This panel will      explore the variations and intersection of ‘openness’ in the domains of science, education, social justice, and big data. Panelists will share their projects, experiences, and perspectives. The short talks will be followed by a moderated Q&A session in which the audience will have the opportunity to ask questions.</p></td>
   </tr>
@@ -104,6 +105,7 @@ OHSU Robertson Life Sciences Building<br>
   <tr>
     <td>1:00 pm</td>
     <td><b>Diversity, Equity, and Inclusion Panel</b> (Discussion + Q&amp;A)<br>
+        Moderator: <a href="/speakers/lucille">Dr. Lucille Moore</a><br>
         Panelists: <a href="/speakers/letisha">Dr. Letisha Wyatt</a>, <a href="/speakers/sanjay">Dr. Sanjay Srivastava</a>, <a href="/speakers/tara">Tara Robertson</a>, and <a href="/speakers/carol">Carol Muñoz Nieves</a><br>
       <hr style="margin:10px">
       <p style="font-size:.85rem">Central to advancing openness is the belief that information should be shared in an equitable and accessible way. As we work together to build an open movement we need to constantly challenge our assumptions and ensure we do not replicate some of the same structures of power and systems of oppression that dominate the current framework of scholarship and education. This panel aims highlight some of the excellent work our local community is already doing and spark a critical discussion around issues of diversity, equity, and inclusions and how we can do better.</p></td>
@@ -121,8 +123,8 @@ OHSU Robertson Life Sciences Building<br>
   </tr>
   <tr>
     <td>3:30 pm</td>
-    <td>Open Do-a-thon
-    <hr style="margin:10px"><p style="font-size:.85rem">Description: <i>TBA</i></p></td>
+    <td><b>Do-a-Thon</b>
+    <hr style="margin:10px"><p style="font-size:.85rem">A do-a-thon is a short sprint where people from different perspectives and skill sets work together and collaborate on challenges, projects, or to learn something new. For OpenCon Cascadia’s do-a-thon, we’ll be focusing on activities that seek to make research and scholarship more open, inclusive, and accessible. <a href="https://opencon-cascadia.github.io/doathon/">Learn more and submit a project!</a></p></td>
   </tr>
   <tr>
     <td>4:45 pm</td>
