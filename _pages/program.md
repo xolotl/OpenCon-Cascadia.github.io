@@ -83,7 +83,7 @@ OHSU Robertson Life Sciences Building<br>
   <tr>
     <td>9:15 am</td>
     <td><b>Open Scholarship Panel</b> (Discussion + Q&amp;A)<br>
-        Moderator: Nick Shockey  
+        Moderator: Nick Shockey<br>
         Panelists: Dr. David Edwards, Dr. Crystallee Crain, Douglas Tsoi, Jen Klaudinyi, and Hannah Stepanek<br>
         <hr style="margin:10px">
         <p style="font-size:.85rem">The concept of open scholarship can differ between communities of practice. This panel will      explore the variations and intersection of ‘openness’ in the domains of science, education, social justice, and big data. Panelists will share their projects, experiences, and perspectives. The short talks will be followed by a moderated Q&A session in which the audience will have the opportunity to ask questions.</p></td>
@@ -105,7 +105,7 @@ OHSU Robertson Life Sciences Building<br>
   <tr>
     <td>1:00 pm</td>
     <td><b>Diversity, Equity, and Inclusion Panel</b> (Discussion + Q&amp;A)<br>
-        Moderator: Dr. Lucille Moore  
+        Moderator: Dr. Lucille Moore<br> 
         Panelists: Dr. Letisha Wyatt, Dr. Sanjay Srivastava, Tara Robertson, and Carol Muñoz Nieves<br>
       <hr style="margin:10px">
       <p style="font-size:.85rem">Central to advancing openness is the belief that information should be shared in an equitable and accessible way. As we work together to build an open movement we need to constantly challenge our assumptions and ensure we do not replicate some of the same structures of power and systems of oppression that dominate the current framework of scholarship and education. This panel aims highlight some of the excellent work our local community is already doing and spark a critical discussion around issues of diversity, equity, and inclusions and how we can do better.</p></td>
