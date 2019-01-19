@@ -83,7 +83,7 @@ OHSU Robertson Life Sciences Building<br>
   <tr>
     <td>9:15 am</td>
     <td><b>Open Scholarship Panel</b> (Discussion + Q&amp;A)<br>
-        Panelists: Dr. David Edwards, Dr. Crystallee Crain, Douglas Tsoi, Jen Klaudinyi, and Hannah Stepanek<br>
+        Panelists: <a href="/speakers/david">Dr. David Edwards</a>, <a href="/speakers/crystallee">Dr. Crystallee Crain</a>, <a href="/speakers/douglas">Douglas Tsoi</a>, <a href="/speakers/jen">Jen Klaudinyi</a>, and <a href="/speakers/hannah">Hannah Stepanek</a><br>
         <hr style="margin:10px">
         <p style="font-size:.85rem">The concept of open scholarship can differ between communities of practice. This panel will      explore the variations and intersection of ‘openness’ in the domains of science, education, social justice, and big data. Panelists will share their projects, experiences, and perspectives. The short talks will be followed by a moderated Q&A session in which the audience will have the opportunity to ask questions.</p></td>
   </tr>
@@ -93,7 +93,7 @@ OHSU Robertson Life Sciences Building<br>
   </tr>
   <tr>
     <td>11:00 am</td>
-    <td><b>Morning Keynote</b> (Talk + Q&amp;A) <br> Keynote speaker: Dr. Leslie Chan<br> Title: <emph> Whose Open Science? How Technology Structures Knowledge Inequality</emph><br> 
+    <td><b>Morning Keynote</b> (Talk + Q&amp;A) <br><i><a href="/speakers/leslie">Dr. Leslie Chan</a></i><br>Title: <emph> Whose Open Science? How Technology Structures Knowledge Inequality</emph><br> 
       <hr style="margin:10px">
       <p style="font-size:.85rem">Leslie will discuss how the open science movement and those who are advancing it, need to always maintain a critical and reflexive perspective about the work they do and they advocate for. Too often technology-driven approaches lead to silencing the diversity of knowledge produced around the world in favor of an homogeneous status quo, thereby reproducing and amplifying existing structures of inequality.</p></td>
   </tr>
@@ -104,7 +104,7 @@ OHSU Robertson Life Sciences Building<br>
   <tr>
     <td>1:00 pm</td>
     <td><b>Diversity, Equity, and Inclusion Panel</b> (Discussion + Q&amp;A)<br>
-        Panelists: Dr. Letisha Wyatt, Dr. Sanjay Srivastava, Tara Robertson, and Carol Muñoz Nieves<br>
+        Panelists: <a href="/speakers/letisha">Dr. Letisha Wyatt</a>, <a href="/speakers/sanjay">Dr. Sanjay Srivastava</a>, <a href="/speakers/tara">Tara Robertson</a>, and <a href="/speakers/carol">Carol Muñoz Nieves</a><br>
       <hr style="margin:10px">
       <p style="font-size:.85rem">Central to advancing openness is the belief that information should be shared in an equitable and accessible way. As we work together to build an open movement we need to constantly challenge our assumptions and ensure we do not replicate some of the same structures of power and systems of oppression that dominate the current framework of scholarship and education. This panel aims highlight some of the excellent work our local community is already doing and spark a critical discussion around issues of diversity, equity, and inclusions and how we can do better.</p></td>
   </tr>
@@ -115,7 +115,7 @@ OHSU Robertson Life Sciences Building<br>
   <tr>
     <td>2:30 pm</td>
     <td><b>Afternoon Keynote</b> (Talk + Q&amp;A)<br>
-        Keynote Speaker: Dr. Kadija Ferryman<br>
+        <i><a href="/speakers/kadija">Dr. Kadija Ferryman</a></i><br>
         Title: Precision Medicine: Connecting Openness and Equity<br>
       <hr style="margin:10px"><p style="font-size:.85rem">Description: <i>TBA</i></p></td>
   </tr>
