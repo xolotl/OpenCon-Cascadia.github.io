@@ -1,10 +1,11 @@
 <ul class="links">
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
   <li class="{% if page.url contains '/program' %} active {% endif %}"><a href="{{ "/program/" | absolute_url }}">Program</a></li>
-  <li class="{% if page.url contains '/about' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">About</a></li>
-  <li class="{% if page.url contains '/blog' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Blog</a></li>
+  <li class="{% if page.url contains '/speakers' %} active {% endif %}"><a href="{{ "/speakers/" | absolute_url }}">Speakers</a></li>
   <li class="{% if page.url contains '/doathon' %} active {% endif %}"><a href="{{ "/doathon/" | absolute_url }}">Do-a-Thon</a></li>
+  <li class="{% if page.url contains '/blog' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Blog</a></li>
   <li class="{% if page.url contains '/coc' %} active {% endif %}"><a href="{{ "/coc/" | absolute_url }}">Code of Conduct</a></li>
+  <li class="{% if page.url contains '/about' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">About</a></li>
   <li class="{% if page.url contains '/faq' %} active {% endif %}"><a href="{{ "/faq/" | absolute_url }}">FAQ</a></li>
 </ul>
 

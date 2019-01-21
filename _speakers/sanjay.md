@@ -5,7 +5,7 @@ affiliation: University of Oregon, Eugene
 twitter: hardsci
 github: 
 website: https://thehardestscience.com/
-image: 
+image: "/images/speakers/sanjay.jpg"
 type: panel
 ---
 
