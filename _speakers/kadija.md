@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Kadija Ferryman, PhD
-affiliation: Data & Society, New York City
+affiliation: Mozilla, Data & Society, New York City
 twitter: KadijaFerryman
 github: 
 image: "/images/speakers/kadija.jpg"
