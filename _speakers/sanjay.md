@@ -1,6 +1,6 @@
 ---
 layout: speaker
-name: Sanjay Srivastava
+name: Sanjay Srivastava, PhD
 affiliation: University of Oregon, Eugene
 twitter: hardsci
 github: 
