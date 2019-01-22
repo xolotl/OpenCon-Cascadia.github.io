@@ -126,9 +126,9 @@ OHSU Robertson Life Sciences Building<br>
       <b>Precision Medicine: Connecting Openness and Equity</b><br>
       Afternoon Keynote by <i><a href="/speakers/kadija">Dr. Kadija Ferryman</a></i><br>
       <hr style="margin:10px">
-      <p style="font-size:.85rem">Description: <i>In this talk, Dr. Ferryman will discuss the findings of her recent research project, 
+      <p style="font-size:.85rem">In this talk, Dr. Ferryman will discuss the findings of her recent research project, 
           called Pursuing Fairness in Precision Medicine. She will relate her findings to open research principles, and examine how 
-          they may be used to advance equity, particularly health equity.</i></p>
+          they may be used to advance equity, particularly health equity.</p>
     </td>
   </tr>
   <tr>
