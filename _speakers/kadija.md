@@ -1,6 +1,6 @@
 ---
 layout: speaker
-name: Dr. Kadija Ferryman
+name: Kadija Ferryman, PhD
 affiliation: Data & Society, New York City
 twitter: KadijaFerryman
 github: 
