@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Stephanie Wright
-affiliation: Mozilla Foundation
+affiliation: Mozilla
 twitter: shefw 
 github: 
 website: 
