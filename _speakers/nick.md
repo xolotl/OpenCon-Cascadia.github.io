@@ -2,7 +2,7 @@
 layout: speaker
 name: Nick Shockey
 affiliation: SPARC
-twitter: @nshockey 
+twitter: nshockey 
 github: 
 website: 
 orcid: 
