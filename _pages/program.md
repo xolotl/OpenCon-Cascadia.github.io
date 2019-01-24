@@ -61,7 +61,9 @@ Mozilla Downtown Portland Offices<br>
 ### Saturday February 2, 8:30 AM - 5:00 PM
 
 OHSU Robertson Life Sciences Building<br> 
-[2730 SW Moody Ave, Portland, OR 97201](https://goo.gl/maps/yDTHVLd3L6r)
+[2730 SW Moody Ave, Portland, OR 97201](https://goo.gl/maps/yDTHVLd3L6r)<br>
+Room 3A001/3A002<br>
+Directions: Please enter the building through the South entrance and go to the 3rd floor via the South Elevators.
 
 <div><table>
   <col style="width:15%">
