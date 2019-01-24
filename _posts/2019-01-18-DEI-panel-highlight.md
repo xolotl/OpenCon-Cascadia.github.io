@@ -25,18 +25,18 @@ systems of oppression that dominate the current framework of scholarship and edu
 The OpenCon Cascadia DEI panelists are involved in research to understand and address issues of bias and representation in research and 
 actions that recognize the contributions of and create opportunities for underrepresented minorities. 
 
-Letisha Wyatt is the Director of Diversity in Research in the OHSU Office of the Senior Vice President for Research and is a faculty 
+[Letisha Wyatt](https://opencon-cascadia.github.io/speakers/letisha) is the Director of Diversity in Research in the OHSU Office of the Senior Vice President for Research and is a faculty 
 advisor as well as founding member of the Alliance for Visible Diversity in Science. 
 
-Sanjay Srivastava is a professor in the Department of Psychology at the University of Oregon. As the president of the Society for the 
+[Sanjay Srivastava](https://opencon-cascadia.github.io/speakers/sanjay) is a professor in the Department of Psychology at the University of Oregon. As the president of the Society for the 
 Improvement of Psychological Science, he promotes initiatives to make the open community more diverse and inclusive.
  
-Carol Muñoz Nieves is a researcher at Simon Fraser University in Vancouver, Canada. She works with the open community in an impressive 
+[Carol Muñoz Nieves](https://opencon-cascadia.github.io/speakers/carol) is a researcher at Simon Fraser University in Vancouver, Canada. She works with the open community in an impressive 
 variety of spheres as a lecturer, press analyst, and journalist for organizations in both Canada and Cuba. One example of her work is in 
 researching the lack of inclusion of public dimensions in faculty work in the process of review, tenure, and promotion, suggesting a key 
 area in which academics may be incentivized to engage in activities that lead to systemic change.
 
-Tara Robertson is the Diversity & Inclusion Strategic Partner for Mozilla who has worked for a long time within tech and open communities 
+[Tara Robertson](https://opencon-cascadia.github.io/speakers/tara) is the Diversity & Inclusion Strategic Partner for Mozilla who has worked for a long time within tech and open communities 
 to push for equity and inclusion in a data-driven manner.
 
 Finally, Juell Towns is an undergraduate student who is an NIH-Build EXITO scholar, McNair Fellow, and CDC-HBRN Scholar. She conducts 
