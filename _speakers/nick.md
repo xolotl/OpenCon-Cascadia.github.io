@@ -7,7 +7,7 @@ github:
 website: 
 orcid: 
 image: "/images/speakers/nick.jpg"
-type: panel
+type: moderation
 ---
 
 Nick Shockey is the Director of Programs & Engagement at SPARC where he focuses on fostering and supporting communities that 

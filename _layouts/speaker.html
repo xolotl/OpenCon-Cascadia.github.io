@@ -39,6 +39,20 @@
             <header class="major">
               <h1>{{ page.name }}</h1>
               <h3>{{ page.affiliation }}</h3>
+              
+              {% if page.type == "panel" %}
+                <h4>Panelist</h4>
+              {% endif %}
+              {% if page.type == "keynote" %}
+                <h4>Keynote Speaker</h4>
+              {% endif %}
+              {% if page.type == "moderation" %}
+                <h4>Panel Moderation</h4>
+              {% endif %}
+              {% if page.type == "lightning" %}
+                <h4>Lightning Talk</h4>
+              {% endif %}
+
               <ul class="contact-member">
                 {% if page.blog != null %}
                 <li><a class="contact-icon" target="_blank" href="{{ page.blog }}"><i class="fa fa-globe fa-lg"
