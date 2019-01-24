@@ -41,7 +41,7 @@ Mozilla Downtown Portland Offices<br>
   </tr>
   <tr>
     <td>6:45 pm</td>
-    <td>Light dinner and networking activities</td>
+    <td>Light dinner and networking activities (win a Powell's bookstore gift card!)</td>
   </tr>
   <tr>
     <td>7:15 pm</td>
