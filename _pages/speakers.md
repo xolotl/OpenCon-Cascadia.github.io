@@ -23,7 +23,7 @@ sitemap:
         </ul>
         <ul class="contact-member">
             {% if person.website != null %}
-                <li><a class="contact-icon" target="_blank" href="{{ person.blog }}"><i class="fa fa-globe fa-lg"
+                <li><a class="contact-icon" target="_blank" href="{{ person.website }}"><i class="fa fa-globe fa-lg"
                       aria-hidden="true"></i></a></li>
             {% endif %}
             {% if person.twitter != null %}
