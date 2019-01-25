@@ -6,7 +6,7 @@ twitter: jenklaud
 github: 
 website: 
 image: "/images/speakers/jen.jpg"
-type: panel
+type: lightening
 ---
 
 Jen Klaudinyi is a community college librarian and an open education coach and rabble-rouser. She has worked on OER initiatives for 
