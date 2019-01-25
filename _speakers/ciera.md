@@ -2,8 +2,8 @@
 layout: speaker
 name: Ciera Martinez, PhD
 affiliation: Mozilla, UC Berkley
-twitter: @cierareports
-github: @iamciera
+twitter: cierareports
+github: iamciera
 website: http://www.cieramartinez.org/
 orcid: 0000-00034296-998X
 image: "/images/speakers/ciera.jpg"
