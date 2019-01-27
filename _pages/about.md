@@ -31,12 +31,19 @@ Join us at OpenCon Cascadia to share stories, discuss challenges, and connect wi
             <li class="job-title">{{ person.affiliation }}</li>
         </ul>
         <ul class="contact-member">
+            {% if person.blog != null %}
+                <li><a class="contact-icon" target="_blank" href="{{ person.blog }}"><i class="fa fa-globe fa-lg"
+                      aria-hidden="true"></i></a></li>
+            {% endif %}
             {% if person.twitter != null %}
                 <li><a class="contact-icon" target="_blank" href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
             {% endif %}
             {% if person.github != null %}
                 <li><a class="contact-icon" target="_blank" href="http://github.com/{{ person.github }}"><i class="fa fa-github" aria-hidden="true"></i></a></li>
             {% endif %}
+            {% if person.orcid != null %}
+                <li><a class="contact-icon" target="_blank" href="http://orcid.org/{{ page.orcid }}"><i class="ai ai-orcid" aria-hidden="true"></i></a></li>
+            {% endif %} 
         </ul>
     </div>
     {% endfor %}
@@ -93,6 +100,16 @@ Interested in becoming a sponsor? Please email us at [openconcascadia@gmail.com]
         </div>
         <!-- <ul>
             <a href="https://library.uoregon.edu/" target = "_blank"><li class="name">University of Oregon Library</li></a>
+        </ul> -->
+    </div>
+     <div class="sponsor">
+        <div class="logo">
+            <a href ="https://www.ohsu.edu/library" target = "_blank">
+                <img src="/images/OHSU-RGB-4C-POS.png" alt="OHSU Library" />
+            </a>
+        </div>
+        <!-- <ul>
+            <a href="https://www.ohsu.edu/library" target = "_blank"><li class="name">OHSU Library</li></a>
         </ul> -->
     </div>
 </center>

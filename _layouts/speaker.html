@@ -39,13 +39,35 @@
             <header class="major">
               <h1>{{ page.name }}</h1>
               <h3>{{ page.affiliation }}</h3>
+              
+              {% if page.type == "panel" %}
+                <h4>Panelist</h4>
+              {% endif %}
+              {% if page.type == "keynote" %}
+                <h4>Keynote Speaker</h4>
+              {% endif %}
+              {% if page.type == "moderation" %}
+                <h4>Panel Moderation</h4>
+              {% endif %}
+              {% if page.type == "lightning" %}
+                <h4>Lightning Talk</h4>
+              {% endif %}
+
               <ul class="contact-member">
+                {% if page.website != null %}
+                <li><a class="contact-icon" target="_blank" href="{{ page.website }}"><i class="fa fa-globe fa-lg"
+                      aria-hidden="true"></i></a></li>
+                {% endif %}   
                 {% if page.twitter != null %}
-                <li><a class="contact-icon" target="_blank" href="http://twitter.com/{{ page.twitter }}"><i class="fa fa-twitter"
+                <li><a class="contact-icon" target="_blank" href="http://twitter.com/{{ page.twitter }}"><i class="fa fa-twitter fa-lg"
                       aria-hidden="true"></i></a></li>
                 {% endif %}
                 {% if page.github != null %}
-                <li><a class="contact-icon" target="_blank" href="http://github.com/{{ page.github }}"><i class="fa fa-github"
+                <li><a class="contact-icon" target="_blank" href="http://github.com/{{ page.github }}"><i class="fa fa-github fa-lg"
+                      aria-hidden="true"></i></a></li>
+                {% endif %}
+                {% if page.orcid != null %}
+                <li><a class="contact-icon" target="_blank" href="http://orcid.org/{{ page.orcid }}"><i class="ai ai-orcid ai-lg"
                       aria-hidden="true"></i></a></li>
                 {% endif %}
               </ul>
@@ -58,17 +80,12 @@
             <p> {{ content }}</p>
             <p>
               <ul class="actions">
-                <li><a href="/about#organizing-committee" class="button">back to the OC</a></li>
+                <li><a href="/speakers" class="button">back to all speakers</a></li>
               </ul>
             </p>              
           </div>
         </div>
       </section>
-
-
-
-
-
     </div>
 
     <!-- Footer -->

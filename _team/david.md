@@ -1,9 +1,10 @@
 ---
-layout: person
+layout: team-member
 name: David Isaak
 affiliation: Reed College
 twitter: DavidCIsaak
 github: dconner3
+orcid: 0000-0002-9548-3855
 image: "/images/oc/david.jpg"
 ---
 

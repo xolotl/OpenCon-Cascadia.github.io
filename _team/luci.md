@@ -1,5 +1,5 @@
 ---
-layout: person
+layout: team-member
 name: Lucille Moore
 affiliation: OHSU
 twitter: lucilleamoore
@@ -7,5 +7,4 @@ github: LuciMoore
 image: "/images/oc/luci.jpg"
 ---
 
-Lucille Moore is a Ph.D. candidate in Neuroscience. Her research explores specialized neuronal communication and anatomical pathways of the central auditory system using in vitro electrophysiology. Luci is passionate about creating a more equitable scientific and global community and deconstructing power dynamics created and upheld by ownership and accessibility of information. To this end, Luci advocates for open science at OHSU by educating her graduate community about open philosophy and practices. She also works as a founding member of the Alliance for Visible Diversity in Science to promote recruitment, retention, and support of graduate students from historically underrepresented backgrounds in academia.
-
+Lucille Moore recently joined the Department of Neurology at Oregon Health & Science University as a Postdoctoral Scholar and ORCCAMIND Fellow. Her research will explore the potential for mindfulness-based intervention (Mindfulness Based Cognitive Therapy or MBCT adapted for pregnant women) to alter developing fetal brain systems via reduced stress and inflammation in the mother. Outside of research, Lucille is passionate about creating a more equitable scientific and global community and deconstructing power dynamics created by ownership of information. To this end, Lucille works as an open science advocate to promote open practices at her institution. She also works as a founding member of the Alliance for Visible Diversity in Science to promote recruitment, retention, and support of graduate students from historically underrepresented backgrounds in academia.
